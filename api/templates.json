@@ -3,6 +3,6 @@
     "templates": {
         "light": "spotify.html.j2",
         "dark": "spotify-dark.html.j2",
-        "Live_Update": "spotify.html -Live-Update.j2"
+        "Live_Update": "spotify-Live-Update.html.j2"
     }
 }
